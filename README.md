@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijith</h1>
-<h3 align="center">Idle Gamer | Content Creator | Developer | Editor |</h3>
+<h3 align="center">| Idle Gamer | Content Creator | Developer | Editor |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijithmass&label=Profile%20views&color=0e75b6&style=flat" alt="srijithmass" /> </p>
 
