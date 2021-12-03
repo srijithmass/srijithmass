@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Music Bot**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python, HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
