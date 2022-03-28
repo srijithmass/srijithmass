@@ -11,11 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://fb.com/srijithmass007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srijithmass007" height="30" width="40" /></a>
 <a href="https://instagram.com/srijith_mass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijith_mass" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techhomesrijith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techhomesrijith" height="30" width="40" /></a>
 <a href="https://discord.gg/CxjyHYc7pT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CxjyHYc7pT" height="30" width="40" /></a>
-<a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/779910243337502750/widget.png?style=banner4"></a>
+</a>
+
 [![support][support-image]][support-invite]
 </p>
 
@@ -27,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijithmass&show_icons=true&locale=en" alt="srijithmass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijithmass&" alt="srijithmass" /></p>
+
 [support-invite]: https://support.switchblade.xyz
 [support-image]: https://invidget.switchblade.xyz/CxjyHYc7pT
