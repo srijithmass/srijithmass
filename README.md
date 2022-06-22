@@ -18,6 +18,8 @@
 <a href="https://discord.gg/CxjyHYc7pT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CxjyHYc7pT" height="30" width="40" /></a>
 </a>
 
+http://training.saveetha.ac.in
+
 [![support][support-image]][support-invite]
 </p>
 
