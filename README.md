@@ -1,31 +1,3 @@
-```py
-def solve_cryptarithmatic2():
-    for perm in permutations(range(10),6):
-        E,A,T,H,P,L = perm
-        
-        if E==0 or T==0 or A==0:
-            continue
-        
-        EAT=100*E+10*A+T
-        THAT=1000*T+100*H+10*A+T
-        APPLE=10000*A+1000*P+100*P+10*L+E
-        
-        if EAT+THAT == APPLE:
-            return EAT,THAT,APPLE
-        
-    return None
-
-solution = solve_cryptarithmatic2()
-if solution:
-    EAT,THAT,APPLE=solution
-    print(f'EAT = {EAT}')
-    print(f'THAT = {THAT}')
-    print(f'APPLE = {APPLE}')
-else:
-    print("solution not found")
-```
-
-
 <h1 align="center">Hi 👋, I'm Srijith</h1>
 <h3 align="center">| Idle Gamer | Content Creator | Developer | Editor |</h3>
 
