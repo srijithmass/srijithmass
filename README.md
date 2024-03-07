@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijithmass" alt="srijithmass" /></a> </p>
 
-- 🔭 I’m currently working on **A Music Bot**
+- 🔭 I’m currently working on **End Cloud Hosting**
 
 - 🌱 I’m currently learning **Python, HTML**
 
@@ -17,8 +17,6 @@
 <a href="https://www.youtube.com/c/techhomesrijith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techhomesrijith" height="30" width="40" /></a>
 <a href="https://discord.gg/CxjyHYc7pT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CxjyHYc7pT" height="30" width="40" /></a>
 </a>
-
-http://training.saveetha.ac.in
 
 [![support][support-image]][support-invite]
 </p>
